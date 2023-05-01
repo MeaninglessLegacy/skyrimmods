@@ -1,4 +1,4 @@
-# skyrimmods
+# skyrim mods
 personal skyrim mods
 
 # dawnbreaker mod
